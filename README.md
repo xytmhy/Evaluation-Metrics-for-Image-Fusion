@@ -1,6 +1,9 @@
 # Evaluation-Metrics-for-image-fusion
 In MATLAB
 
+Change the code of image reading and run *Score.m*.
+The input images should be **RGB** with the type **int**.
+
 These four evaluation metrics are widely used in multi-focus image fusion.
 
 The related papers are as follows:
