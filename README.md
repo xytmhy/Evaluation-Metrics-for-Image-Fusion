@@ -1,4 +1,4 @@
-# Evaluation-Metrics-for-image-fusion
+# Evaluation-Metrics-for-Image-Fusion
 In MATLAB
 
 Change the code of image reading and run *Score.m*.
